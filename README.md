@@ -1,0 +1,1 @@
+This is Jerikko's first git project!
